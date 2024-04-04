@@ -1,7 +1,7 @@
 # Yelp Business Review Application
 
 ## Overview
-This application provides a comprehensive platform for querying Yelp data, offering detailed insights into various businesses. Designed with PostgreSQL, Python, and QT Designer, it caters to customers and investors looking to analyze business performance within specific locations.
+This application provides a comprehensive platform for querying Yelp data, offering detailed insights into various businesses. Designed with PostgreSQL, Python, and Qt Designer, it caters to customers and investors looking to analyze business performance within specific locations.
 
 ## Features
 - **Business Queries:** Allows users to search for businesses based on state, city, and/or zipcode, and filter by categories.
