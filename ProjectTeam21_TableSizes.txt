@@ -1,0 +1,6 @@
+ZipCode Table: 206
+Category Table: 226
+Business Table: 11,481
+Users Table: 192,999
+Review Table: 416,479
+CheckIn Table: 481,360
